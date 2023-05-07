@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "087282a7-c0e5-439c-aef6-e75af845856c": {
+      "ProjectGuid": "087282a7-c0e5-439c-aef6-e75af845856c",
+      "DisplayName": "PayRoll",
+      "ColorIndex": 0
+    },
+    "2ce38868-60c9-475f-bb68-c7db4ee9d5b2": {
+      "ProjectGuid": "2ce38868-60c9-475f-bb68-c7db4ee9d5b2",
+      "DisplayName": "PayRoll.Persistence",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a7272ea9-f36a-41e1-aaf2-537e8aa4dc85": {
+      "ProjectGuid": "a7272ea9-f36a-41e1-aaf2-537e8aa4dc85",
+      "DisplayName": "PayRoll.Entity",
+      "ColorIndex": 2
+    },
+    "1c9ea6c8-8e85-4357-8537-6a61e406d822": {
+      "ProjectGuid": "1c9ea6c8-8e85-4357-8537-6a61e406d822",
+      "DisplayName": "PayRoll.Service",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

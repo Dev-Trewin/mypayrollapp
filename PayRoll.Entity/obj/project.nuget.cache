@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R5O4OtXKt9hr/pUO+Ey1Ksp6itI6bsC5CNmpFYo2V9GlocpzDBaDQnQQ2eDf/aJ0CU5vhrrwZROjY1dq3NajuA==",
+  "success": true,
+  "projectFilePath": "C:\\payrollprojectclone\\payrollapp\\PayRoll.Entity\\PayRoll.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trewi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\trewi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\trewi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

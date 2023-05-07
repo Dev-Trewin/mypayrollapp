@@ -1,0 +1,54 @@
+C:\Practice .net core\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Entity.dll
+C:\Practice .net core\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.csprojAssemblyReference.cache
+C:\Practice .net core\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice .net core\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.AssemblyInfoInputs.cache
+C:\Practice .net core\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.AssemblyInfo.cs
+C:\Practice .net core\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.deps.json
+C:\Practice .net core\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.runtimeconfig.json
+C:\Practice .net core\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.runtimeconfig.dev.json
+C:\Practice .net core\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.dll
+C:\Practice .net core\PayRoll.Persistence\bin\Debug\net5.0\ref\PayRoll.Persistence.dll
+C:\Practice .net core\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.pdb
+C:\Practice .net core\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Entity.pdb
+C:\Practice .net core\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.csproj.CoreCompileInputs.cache
+C:\Practice .net core\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.csproj.CopyComplete
+C:\Practice .net core\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.dll
+C:\Practice .net core\PayRoll.Persistence\obj\Debug\net5.0\ref\PayRoll.Persistence.dll
+C:\Practice .net core\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.pdb
+C:\Practice .net core\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.genruntimeconfig.cache
+C:\payrollrepo\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.deps.json
+C:\payrollrepo\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.runtimeconfig.json
+C:\payrollrepo\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.runtimeconfig.dev.json
+C:\payrollrepo\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.dll
+C:\payrollrepo\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\ref\PayRoll.Persistence.dll
+C:\payrollrepo\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.pdb
+C:\payrollrepo\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Entity.dll
+C:\payrollrepo\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Entity.pdb
+C:\payrollrepo\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.csprojAssemblyReference.cache
+C:\payrollrepo\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\payrollrepo\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.AssemblyInfoInputs.cache
+C:\payrollrepo\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.AssemblyInfo.cs
+C:\payrollrepo\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.csproj.CoreCompileInputs.cache
+C:\payrollrepo\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.csproj.CopyComplete
+C:\payrollrepo\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.dll
+C:\payrollrepo\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\ref\PayRoll.Persistence.dll
+C:\payrollrepo\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.pdb
+C:\payrollrepo\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.genruntimeconfig.cache
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.deps.json
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.runtimeconfig.json
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.runtimeconfig.dev.json
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.dll
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Persistence.pdb
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Entity.dll
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\bin\Debug\net5.0\PayRoll.Entity.pdb
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.csproj.AssemblyReference.cache
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.AssemblyInfoInputs.cache
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.AssemblyInfo.cs
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.csproj.CoreCompileInputs.cache
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.csproj.CopyComplete
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.dll
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\refint\PayRoll.Persistence.dll
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.pdb
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\PayRoll.Persistence.genruntimeconfig.cache
+C:\payrollprojectclone\payrollapp\PayRoll.Persistence\obj\Debug\net5.0\ref\PayRoll.Persistence.dll

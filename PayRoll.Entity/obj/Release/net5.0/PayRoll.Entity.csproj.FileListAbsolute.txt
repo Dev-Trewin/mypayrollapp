@@ -1,0 +1,12 @@
+C:\payrollrepo\payrollapp\PayRoll.Entity\bin\Release\net5.0\PayRoll.Entity.deps.json
+C:\payrollrepo\payrollapp\PayRoll.Entity\bin\Release\net5.0\PayRoll.Entity.dll
+C:\payrollrepo\payrollapp\PayRoll.Entity\bin\Release\net5.0\ref\PayRoll.Entity.dll
+C:\payrollrepo\payrollapp\PayRoll.Entity\bin\Release\net5.0\PayRoll.Entity.pdb
+C:\payrollrepo\payrollapp\PayRoll.Entity\obj\Release\net5.0\PayRoll.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\payrollrepo\payrollapp\PayRoll.Entity\obj\Release\net5.0\PayRoll.Entity.AssemblyInfoInputs.cache
+C:\payrollrepo\payrollapp\PayRoll.Entity\obj\Release\net5.0\PayRoll.Entity.AssemblyInfo.cs
+C:\payrollrepo\payrollapp\PayRoll.Entity\obj\Release\net5.0\PayRoll.Entity.csproj.CoreCompileInputs.cache
+C:\payrollrepo\payrollapp\PayRoll.Entity\obj\Release\net5.0\PayRoll.Entity.dll
+C:\payrollrepo\payrollapp\PayRoll.Entity\obj\Release\net5.0\ref\PayRoll.Entity.dll
+C:\payrollrepo\payrollapp\PayRoll.Entity\obj\Release\net5.0\PayRoll.Entity.pdb
+C:\payrollrepo\payrollapp\PayRoll.Entity\obj\Release\net5.0\PayRoll.Entity.csprojAssemblyReference.cache

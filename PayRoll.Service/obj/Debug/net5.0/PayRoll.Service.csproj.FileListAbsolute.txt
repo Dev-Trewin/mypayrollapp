@@ -1,0 +1,51 @@
+C:\Practice .net core\PayRoll.Service\bin\Debug\net5.0\PayRoll.Service.deps.json
+C:\Practice .net core\PayRoll.Service\bin\Debug\net5.0\PayRoll.Service.dll
+C:\Practice .net core\PayRoll.Service\bin\Debug\net5.0\ref\PayRoll.Service.dll
+C:\Practice .net core\PayRoll.Service\bin\Debug\net5.0\PayRoll.Service.pdb
+C:\Practice .net core\PayRoll.Service\bin\Debug\net5.0\PayRoll.Entity.dll
+C:\Practice .net core\PayRoll.Service\bin\Debug\net5.0\PayRoll.Persistence.dll
+C:\Practice .net core\PayRoll.Service\bin\Debug\net5.0\PayRoll.Entity.pdb
+C:\Practice .net core\PayRoll.Service\bin\Debug\net5.0\PayRoll.Persistence.pdb
+C:\Practice .net core\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.csprojAssemblyReference.cache
+C:\Practice .net core\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice .net core\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.AssemblyInfoInputs.cache
+C:\Practice .net core\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.AssemblyInfo.cs
+C:\Practice .net core\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.csproj.CoreCompileInputs.cache
+C:\Practice .net core\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.csproj.CopyComplete
+C:\Practice .net core\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.dll
+C:\Practice .net core\PayRoll.Service\obj\Debug\net5.0\ref\PayRoll.Service.dll
+C:\Practice .net core\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.pdb
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Service.deps.json
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Service.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Debug\net5.0\ref\PayRoll.Service.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Service.pdb
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Entity.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Persistence.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Entity.pdb
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Persistence.pdb
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.csprojAssemblyReference.cache
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.AssemblyInfoInputs.cache
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.AssemblyInfo.cs
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.csproj.CoreCompileInputs.cache
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.csproj.CopyComplete
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Debug\net5.0\ref\PayRoll.Service.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.pdb
+C:\payrollprojectclone\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Service.deps.json
+C:\payrollprojectclone\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Service.dll
+C:\payrollprojectclone\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Service.pdb
+C:\payrollprojectclone\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Entity.dll
+C:\payrollprojectclone\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Persistence.dll
+C:\payrollprojectclone\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Entity.pdb
+C:\payrollprojectclone\payrollapp\PayRoll.Service\bin\Debug\net5.0\PayRoll.Persistence.pdb
+C:\payrollprojectclone\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.csproj.AssemblyReference.cache
+C:\payrollprojectclone\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\payrollprojectclone\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.AssemblyInfoInputs.cache
+C:\payrollprojectclone\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.AssemblyInfo.cs
+C:\payrollprojectclone\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.csproj.CoreCompileInputs.cache
+C:\payrollprojectclone\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.csproj.CopyComplete
+C:\payrollprojectclone\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.dll
+C:\payrollprojectclone\payrollapp\PayRoll.Service\obj\Debug\net5.0\refint\PayRoll.Service.dll
+C:\payrollprojectclone\payrollapp\PayRoll.Service\obj\Debug\net5.0\PayRoll.Service.pdb
+C:\payrollprojectclone\payrollapp\PayRoll.Service\obj\Debug\net5.0\ref\PayRoll.Service.dll

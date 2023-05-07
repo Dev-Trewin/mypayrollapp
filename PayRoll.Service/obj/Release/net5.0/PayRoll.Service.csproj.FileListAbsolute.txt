@@ -1,0 +1,17 @@
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Release\net5.0\PayRoll.Service.deps.json
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Release\net5.0\PayRoll.Service.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Release\net5.0\ref\PayRoll.Service.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Release\net5.0\PayRoll.Service.pdb
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Release\net5.0\PayRoll.Entity.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Release\net5.0\PayRoll.Persistence.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Release\net5.0\PayRoll.Entity.pdb
+C:\payrollrepo\payrollapp\PayRoll.Service\bin\Release\net5.0\PayRoll.Persistence.pdb
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Release\net5.0\PayRoll.Service.csprojAssemblyReference.cache
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Release\net5.0\PayRoll.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Release\net5.0\PayRoll.Service.AssemblyInfoInputs.cache
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Release\net5.0\PayRoll.Service.AssemblyInfo.cs
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Release\net5.0\PayRoll.Service.csproj.CoreCompileInputs.cache
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Release\net5.0\PayRoll.Service.csproj.CopyComplete
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Release\net5.0\PayRoll.Service.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Release\net5.0\ref\PayRoll.Service.dll
+C:\payrollrepo\payrollapp\PayRoll.Service\obj\Release\net5.0\PayRoll.Service.pdb

@@ -1,0 +1,472 @@
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\appsettings.Development.json
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\appsettings.json
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.StaticWebAssets.xml
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.exe
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.deps.json
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.runtimeconfig.json
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.runtimeconfig.dev.json
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\ref\PayRoll.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.pdb
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.Views.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.Views.pdb
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Humanizer.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.csprojAssemblyReference.cache
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.AssemblyInfoInputs.cache
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.AssemblyInfo.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.csproj.CoreCompileInputs.cache
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.MvcApplicationPartsAssemblyInfo.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.MvcApplicationPartsAssemblyInfo.cache
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.RazorAssemblyInfo.cache
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.RazorAssemblyInfo.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\staticwebassets\PayRoll.StaticWebAssets.Manifest.cache
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\staticwebassets\PayRoll.StaticWebAssets.xml
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\scopedcss\bundle\PayRoll.styles.css
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.TagHelpers.input.cache
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.TagHelpers.output.cache
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.RazorCoreGenerate.cache
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.RazorTargetAssemblyInfo.cache
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.RazorTargetAssemblyInfo.cs
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.Views.pdb
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.csproj.CopyComplete
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.dll
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\ref\PayRoll.dll
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.pdb
+C:\Practice .net core\PayRoll\obj\Debug\net5.0\PayRoll.genruntimeconfig.cache
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.Entity.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.Persistence.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.Service.dll
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.Entity.pdb
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.Service.pdb
+C:\Practice .net core\PayRoll\bin\Debug\net5.0\PayRoll.Persistence.pdb
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.csprojAssemblyReference.cache
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.AssemblyInfoInputs.cache
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.AssemblyInfo.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.csproj.CoreCompileInputs.cache
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.MvcApplicationPartsAssemblyInfo.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.MvcApplicationPartsAssemblyInfo.cache
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.RazorAssemblyInfo.cache
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.RazorAssemblyInfo.cs
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\appsettings.Development.json
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\appsettings.json
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.StaticWebAssets.xml
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.exe
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.deps.json
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.runtimeconfig.json
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.runtimeconfig.dev.json
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ref\PayRoll.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.pdb
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Views.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Views.pdb
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Humanizer.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Entity.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Persistence.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Service.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Entity.pdb
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Service.pdb
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Persistence.pdb
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\staticwebassets\PayRoll.StaticWebAssets.Manifest.cache
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\staticwebassets\PayRoll.StaticWebAssets.xml
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\scopedcss\bundle\PayRoll.styles.css
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.TagHelpers.input.cache
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.TagHelpers.output.cache
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.RazorCoreGenerate.cache
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.RazorTargetAssemblyInfo.cache
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.RazorTargetAssemblyInfo.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.Views.pdb
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.csproj.CopyComplete
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.dll
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\ref\PayRoll.dll
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.pdb
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.genruntimeconfig.cache
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\bundleconfig.json
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Pages\_Layout.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Employee\Detail.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Pay\Index.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Pay\Create.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Pay\Detail.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Pay\Payslip.cshtml.g.cs
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\RotativaCore.dll
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\WkHtmlToPdf\wkhtmltoimage.exe
+C:\payrollrepo\payrollapp\PayRoll\bin\Debug\net5.0\WkHtmlToPdf\wkhtmltopdf.exe
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\appsettings.Development.json
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\WkHtmlToPdf\wkhtmltoimage.exe
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\WkHtmlToPdf\wkhtmltopdf.exe
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\appsettings.json
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\bundleconfig.json
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.StaticWebAssets.xml
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.exe
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.deps.json
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.runtimeconfig.json
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.runtimeconfig.dev.json
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Views.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Views.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Humanizer.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\RotativaCore.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Entity.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Persistence.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Service.dll
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Entity.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Service.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\bin\Debug\net5.0\PayRoll.Persistence.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.csproj.AssemblyReference.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.AssemblyInfoInputs.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.AssemblyInfo.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.csproj.CoreCompileInputs.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.MvcApplicationPartsAssemblyInfo.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.MvcApplicationPartsAssemblyInfo.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.RazorAssemblyInfo.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.RazorAssemblyInfo.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\scopedcss\bundle\PayRoll.styles.css
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\staticwebassets\PayRoll.StaticWebAssets.Manifest.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\staticwebassets\PayRoll.StaticWebAssets.xml
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.TagHelpers.input.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.TagHelpers.output.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.RazorCoreGenerate.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Pages\_Layout.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Employee\Detail.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Pay\Create.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Pay\Detail.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Pay\Index.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Pay\Payslip.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.RazorTargetAssemblyInfo.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.RazorTargetAssemblyInfo.cs
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.Views.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.csproj.CopyComplete
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.dll
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\ref\PayRoll.dll
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.pdb
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\PayRoll.genruntimeconfig.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\refint\PayRoll.dll
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\staticwebassets\PayRoll.StaticWebAssets.Pack.cache
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\staticwebassets\msbuild.PayRoll.Microsoft.AspNetCore.StaticWebAssets.props
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\staticwebassets\msbuild.build.PayRoll.props
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PayRoll.props
+C:\payrollprojectclone\payrollapp\PayRoll\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PayRoll.props
